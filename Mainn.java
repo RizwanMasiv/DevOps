@@ -17,6 +17,8 @@ public void mul(int a,int b)
 {
 	System.out.println("i am interface3");
 	System.out.println("A value:"+a+",B value:"+b);
+	int mul = a*b;
+	return ();
 	
 }
 public static void main(String[] args) 
